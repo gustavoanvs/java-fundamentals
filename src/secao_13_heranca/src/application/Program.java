@@ -15,6 +15,13 @@ public class Program {
         Account acc1 = bacc;
         Account acc2 = new BusinessAccount(03, "Guilherme", 0.0, 0.0);
 
+
+        // DOWNCASTING
+        BusinessAccount acc3 = (BusinessAccount)acc1;
+
+        if(acc2 instanceof BusinessAccount){
+            System.out.println("Ok!");
+        }
     }
 
 }
