@@ -7,6 +7,7 @@
       <module fileurl="file://$PROJECT_DIR$/secao_13_fixacao_01/secao_13_fixacao_01.iml" filepath="$PROJECT_DIR$/secao_13_fixacao_01/secao_13_fixacao_01.iml" />
       <module fileurl="file://$PROJECT_DIR$/secao_13_heranca/secao_13_heranca.iml" filepath="$PROJECT_DIR$/secao_13_heranca/secao_13_heranca.iml" />
       <module fileurl="file://$PROJECT_DIR$/secao_excecoes/secao_excecoes.iml" filepath="$PROJECT_DIR$/secao_excecoes/secao_excecoes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/secao_excecoes_exemplo/secao_excecoes_exemplo.iml" filepath="$PROJECT_DIR$/secao_excecoes_exemplo/secao_excecoes_exemplo.iml" />
     </modules>
   </component>
 </project>

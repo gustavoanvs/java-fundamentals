@@ -35,7 +35,7 @@ public class Program {
         catch (ArrayIndexOutOfBoundsException e){
             System.out.println("Posição Inválida");
             e.printStackTrace();
-            sc.next();
+            sc.next();  
         }
         catch (InputMismatchException e){
             System.out.println("Inserção errada, digit o numero da posição");
