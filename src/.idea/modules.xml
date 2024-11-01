@@ -10,6 +10,7 @@
       <module fileurl="file://$PROJECT_DIR$/secao_excecoes/secao_excecoes.iml" filepath="$PROJECT_DIR$/secao_excecoes/secao_excecoes.iml" />
       <module fileurl="file://$PROJECT_DIR$/secao_excecoes_atividade/secao_excecoes_atividade.iml" filepath="$PROJECT_DIR$/secao_excecoes_atividade/secao_excecoes_atividade.iml" />
       <module fileurl="file://$PROJECT_DIR$/secao_excecoes_exemplo/secao_excecoes_exemplo.iml" filepath="$PROJECT_DIR$/secao_excecoes_exemplo/secao_excecoes_exemplo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/secao_interface/secao_interface.iml" filepath="$PROJECT_DIR$/secao_interface/secao_interface.iml" />
     </modules>
   </component>
 </project>
