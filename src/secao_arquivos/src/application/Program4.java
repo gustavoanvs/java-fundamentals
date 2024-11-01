@@ -12,6 +12,10 @@ public class Program4 {
 
         File path = new File(srtPath);
 
+        System.out.println("Get Name: " + path.getName());
+        System.out.println("Get Folder: " + path.getParent());
+        System.out.println("Get Path: " + path.getPath());
+
         File[] folders = path.listFiles(File::isDirectory); //somente dir ou pasta
         File[] files = path.listFiles(File::isFile); //somente arquivos
 
