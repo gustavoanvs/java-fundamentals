@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/ex_interface/ex_interface.iml" filepath="$PROJECT_DIR$/ex_interface/ex_interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ex_interface_2/ex_interface_2.iml" filepath="$PROJECT_DIR$/ex_interface_2/ex_interface_2.iml" />
       <module fileurl="file://$PROJECT_DIR$/java_course.iml" filepath="$PROJECT_DIR$/java_course.iml" />
       <module fileurl="file://$PROJECT_DIR$/secao_13_exercicios/secao_13_exercicios.iml" filepath="$PROJECT_DIR$/secao_13_exercicios/secao_13_exercicios.iml" />
       <module fileurl="file://$PROJECT_DIR$/secao_13_fixacao_01/secao_13_fixacao_01.iml" filepath="$PROJECT_DIR$/secao_13_fixacao_01/secao_13_fixacao_01.iml" />
